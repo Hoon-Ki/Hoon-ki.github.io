@@ -12,7 +12,7 @@ title:  "Kaggle - Disater Tweets NLP part 1"
 ## Import packages
 
 <details>
-<summary>code</summary>
+<summary>Click code</summary>
 <div markdown="1">
 
 ```python
