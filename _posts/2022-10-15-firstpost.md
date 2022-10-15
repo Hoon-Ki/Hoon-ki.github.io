@@ -1,22 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Kaggle - Disater Tweets NLP part 1"
 ---
 
-# Welcome
+# Intoduction
 
-**Hello world**, this is my first Jekyll blog post.
+- In this post, I will add up more explaination about "Disaster Tweets NLP" in kaggle, based on this [post](https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transformers)
 
-I hope you like it!
-
-# 큰 제목
-이 글은 본문 입니다.
-
-## 중간제목
-이 글은 본문 입니다.
-- 이 글은 순서없는 목록입니다.
-- 이 글은 순서없는 목록입니다.
-
-이글은 본문입니다.
-1. 이 글은 순서있는 목록입니다.
-2. 이 글은 순서있는 목록입니다.
