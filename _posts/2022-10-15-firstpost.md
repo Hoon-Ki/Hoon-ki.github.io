@@ -9,7 +9,7 @@ title:  "Kaggle - Disater Tweets NLP part 1"
 - this post will be in 2 parts, first part is EDA and second part is ML(NLP model - BERT)
 ---
 
-## Import packages
+# Import packages
 
 <details>
 <summary>Click code</summary>
