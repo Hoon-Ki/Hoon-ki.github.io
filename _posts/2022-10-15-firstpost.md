@@ -11,6 +11,10 @@ title:  "Kaggle - Disater Tweets NLP part 1"
 
 ## Import packages
 
+<details>
+<summary>code</summary>
+<div markdown="1">
+
 ```python
 # Most basic stuff for EDA.
 
@@ -87,3 +91,6 @@ np.random.seed(seed_val)
 torch.manual_seed(seed_val)
 torch.cuda.manual_seed_all(seed_val)
 ```
+  
+</div>
+</details>
