@@ -7,10 +7,8 @@ title:  "Kaggle - Disater Tweets NLP part 1"
 
 - In this post, I will review about the code on this [post](https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transformers) just for fun and studying
 - this post will be in 2 parts, first part is EDA and second part is ML(NLP model - BERT)
-<br>
-<br>
-<br>
-<strong>1. Import packages</strong>
+---
+<strong>##Import packages</strong>
 
 <details>
 <summary>Click code</summary>
