@@ -91,6 +91,8 @@ np.random.seed(seed_val)
 torch.manual_seed(seed_val)
 torch.cuda.manual_seed_all(seed_val)
 ```
-  
+
+![twitter](../images/2022-10-15-firstpost/twitter.jpeg)
+
 </div>
 </details>
