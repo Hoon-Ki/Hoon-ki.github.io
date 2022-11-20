@@ -1,13 +1,15 @@
 ---
-layout: post
-title:  "Kaggle - Disater Tweets NLP part 1"
+layout : post
+title :  "Kaggle - Disater Tweets NLP part 1"
+categories : Tutorial
+tag : ML
 ---
 
 # Introduction
 
 - In this post, I will review about the code on this [post](https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transformers) just for fun and studying
 - this post will be in 2 parts, first part is EDA and second part is ML(NLP model - BERT)
----
+
 
 # Import packages
 
@@ -90,7 +92,6 @@ random.seed(seed_val)
 np.random.seed(seed_val)
 torch.manual_seed(seed_val)
 torch.cuda.manual_seed_all(seed_val)
-```
 
 </div>
 </details>

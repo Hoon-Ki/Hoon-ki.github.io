@@ -1,6 +1,8 @@
 ---
 layout : single
 title : NLP tutorial - NLP_with_disaster_tweets (Kaggle)
+categories : Tutorial
+tags : ML
 ---
 
 https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transformers
