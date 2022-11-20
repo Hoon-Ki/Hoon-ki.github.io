@@ -92,7 +92,7 @@ torch.manual_seed(seed_val)
 torch.cuda.manual_seed_all(seed_val)
 ```
 
-![twitter](../images/2022-10-15-firstpost/twitter.jpeg)
+![twitter](https://hoon-ki.github.io/images/2022-10-15-firstpost/twitter.jpeg)
 
 </div>
 </details>
