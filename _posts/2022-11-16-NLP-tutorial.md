@@ -148,7 +148,7 @@ display(testv.sample(5))
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -220,7 +220,7 @@ display(testv.sample(5))
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -345,7 +345,7 @@ trainv.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -442,7 +442,7 @@ trainv.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -545,7 +545,7 @@ trainv.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -653,7 +653,7 @@ trainv.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -781,7 +781,7 @@ trainv.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -909,7 +909,7 @@ trainv.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1035,9 +1035,7 @@ plt.show()
 ```
 
 
-    
-![png](output_17_0.png)
-    
+![png](../images/NLP-tutorial/output_17_0.png)
 
 
 
@@ -1097,8 +1095,7 @@ plot_dist3(trainv[trainv['target'] == 0], 'Character Count',
 ```
 
 
-    
-![png](output_19_0.png)
+![png](../images/NLP-tutorial/output_19_0.png)
     
 
 
@@ -1109,8 +1106,7 @@ plot_dist3(trainv[trainv['target'] == 1], 'Character Count',
 ```
 
 
-    
-![png](output_20_0.png)
+![png](../images/NLP-tutorial/output_20_0.png)
     
 
 
@@ -1143,8 +1139,7 @@ plot_word_number_histogram(trainv[trainv['target'] == 0]['text'],
 ```
 
 
-    
-![png](output_22_0.png)
+![png](../images/NLP-tutorial/output_22_0.png)
     
 
 
@@ -1179,8 +1174,7 @@ plot_word_len_histogram(trainv[trainv['target'] == 0]['text'],
 ```
 
 
-    
-![png](output_24_0.png)
+![png](../images/NLP-tutorial/output_24_0.png)
     
 
 
@@ -1257,8 +1251,7 @@ plt.tight_layout()
 ```
 
 
-    
-![png](output_27_0.png)
+![png](../images/NLP-tutorial/output_27_0.png)
     
 
 
@@ -1306,8 +1299,7 @@ ngrams(2, 'Most Common Bigrams')
 ```
 
 
-    
-![png](output_29_0.png)
+![png](../images/NLP-tutorial/output_29_0.png)
     
 
 
@@ -1317,8 +1309,7 @@ ngrams(3, 'Most Common Bigrams')
 ```
 
 
-    
-![png](output_30_0.png)
+![png](../images/NLP-tutorial/output_30_0.png)
     
 
 
@@ -1457,8 +1448,7 @@ plot_wordcloud(trainv[trainv['target'] == 0]['lemmatized'],
 ```
 
 
-    
-![png](output_35_0.png)
+![png](../images/NLP-tutorial/output_35_0.png)
     
 
 
@@ -1470,8 +1460,7 @@ plot_wordcloud(trainv[trainv['target'] == 1]['lemmatized'],
 ```
 
 
-    
-![png](output_36_0.png)
+![png](../images/NLP-tutorial/output_36_0.png)
     
 
 
@@ -1552,8 +1541,7 @@ plt.show()
 ```
 
 
-    
-![png](output_39_0.png)
+![png](../images/NLP-tutorial/output_39_0.png)
     
 
 
@@ -1593,7 +1581,7 @@ display(train.sample(10))
     Number of training tweets: 7613
     
     Number of training tweets: 3263
-    
+
 
 
 
@@ -1606,7 +1594,7 @@ display(train.sample(10))
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1787,8 +1775,7 @@ plt.show()
 ```
 
 
-    
-![png](output_47_0.png)
+![png](../images/NLP-tutorial/output_47_0.png)
     
 
 
@@ -2910,7 +2897,7 @@ print('Total training took {:} (h:mm:ss)'.format(format_time(time.time()-total_t
 
 ```
 
-    
+
     ======== Epoch 1 / 20 ========
     Training...
       Batch    50  of    191.    Elapsed: 0:10:11.
@@ -3244,7 +3231,7 @@ display(df_stats)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -3480,9 +3467,9 @@ plt.show()
 ```
 
 
-    
-![png](output_62_0.png)
-    
+​    
+![png](../images/NLP-tutorial/output_62_0.png)
+​    
 
 
 
@@ -3580,7 +3567,7 @@ submission.head(10)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
