@@ -4,9 +4,17 @@ title : NLP tutorial - NLP_with_disaster_tweets (Kaggle)
 categories : Tutorial
 tags : ML
 toc : true
+author_profile : false
+sidebar:
+    nav: "docs"
 ---
 
-https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transformers
+<div class="notice--success">
+<h4> Kaggle Ref </h4>
+<ul>
+    <li> <a href="https://www.kaggle.com/code/datafan07/disaster-tweets-nlp-eda-bert-with-transformers"> Disaster tweets NLP-EDA-BERT with transformers </a> </li>
+</ul>    
+</div>
 
 # Download data with API
 
